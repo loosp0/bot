@@ -1,0 +1,8 @@
+{
+    "reciters": [
+        {
+            "name": "YOUTUBE",
+            "playList": "pDWJ46Y1uvWFNnC1"
+        }
+    ]
+}
